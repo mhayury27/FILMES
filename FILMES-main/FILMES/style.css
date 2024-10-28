@@ -1,0 +1,10 @@
+:root{
+    --cor-de-fundo:#EBEC;
+    --cor-do-texto:#e90c0c;
+    --destaque:blue;
+    --links:darKblue;
+}
+
+.cabecalho{
+    background-color: #131313;
+}
